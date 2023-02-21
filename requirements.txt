@@ -1,7 +1,5 @@
 pytube
 moviepy
 numpy
-opencv-python-headless
-Pillow
 bs4
 requests-html
