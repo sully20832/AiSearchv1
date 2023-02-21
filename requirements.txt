@@ -1,0 +1,7 @@
+pytube
+moviepy
+numpy
+opencv-python
+bs4
+
+requests_html
