@@ -1,8 +1,6 @@
 import cv2
 import requests
-import json
-from unittest import result
-import os, io
+import os, io, json, requests
 import requests
 from bs4 import BeautifulSoup
 from requests_html import HTML
